@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  FaceIdDemo2
+
+  Created by Ss on 8/3/23.
+  
+*/
+
+NSFaceIDUsageDescription = "Needs permission to access your Face ID so you can safely use your face to log in";
